@@ -8,6 +8,8 @@ Archivos `yaml` para crear un `deployment` con 3 `réplicas` de un pod con un se
 
 El servicio que lo expone hacia el exterior del clúster es un `NodePort`.
 
+<img width="614" height="138" alt="image" src="https://github.com/user-attachments/assets/25795c2e-c619-4966-b19a-b658aac756d1" />
+
 ## 🖥️ How to run it
 
 ```
