@@ -8,6 +8,9 @@
 
 The service that exposes it outside the cluster is a `NodePort`.
 
+<img width="614" height="138" alt="image" src="https://github.com/user-attachments/assets/25795c2e-c619-4966-b19a-b658aac756d1" />
+
+
 ## 🖥️ How to run it
 
 ```
